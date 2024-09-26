@@ -29,9 +29,9 @@ I’m a passionate **Data Scientist** and **Web Developer** with a deep interest
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas) 
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy) 
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn) 
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL) [SQL](https://www.mysql.com/)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=machine-learning) [Machine Learning](https://scikit-learn.org/)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=deep-learning) [Deep Learning](https://keras.io/)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=machine-learning)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=deep-learning)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow) 
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)
 
