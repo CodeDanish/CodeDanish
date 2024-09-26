@@ -1,9 +1,13 @@
 # Hi there, I'm Danish! 👋 
 
-## 💻 Data Scientist | 🌐 Web Developer | 💡 Lifelong Learner 
+## 💻 **Data Scientist** | 🌐 **Web Developer** | 💡 **Lifelong Learner**
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social) 
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
+![Data Science](https://img.shields.io/badge/-Data%20Science-blueviolet?style=flat&logo=python&logoColor=white)
+![Web Development](https://img.shields.io/badge/-Web%20Development-brightgreen?style=flat&logo=html5&logoColor=white)
+![Learning](https://img.shields.io/badge/-Lifelong%20Learning-blue?style=flat&logo=readthedocs&logoColor=white) 
+
+![GitHub followers](https://img.shields.io/github/followers/CodeDanish?style=social) 
+![GitHub stars](https://img.shields.io/github/stars/CodeDanish?style=social)
 
 ---
 
