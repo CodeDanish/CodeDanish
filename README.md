@@ -1,6 +1,6 @@
 # Hi there, I'm Danish! 👋 
 
-## 💻 **Data Scientist** | 🌐 **Web Developer** | 💡 **Lifelong Learner**
+## 📊📈 **Data Scientist** | 🧑‍💻 **Web Developer** | 📚 **Lifelong Learner**
 
 ![Data Science](https://img.shields.io/badge/-Data%20Science-blueviolet?style=flat&logo=python&logoColor=white)
 ![Web Development](https://img.shields.io/badge/-Web%20Development-brightgreen?style=flat&logo=html5&logoColor=white)
@@ -25,43 +25,29 @@ I’m a passionate **Data Scientist** and **Web Developer** with a deep interest
 ### 🧰 Technologies & Tools
 
 #### Data Science & Machine Learning:
--![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-
--![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas) 
-
--![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy) 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas) 
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy) 
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn) 
-
--![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL) [SQL](https://www.mysql.com/)
-
--![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=machine-learning) [Machine Learning](https://scikit-learn.org/)
-
--![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=deep-learning) [Deep Learning](https://keras.io/)
-
--![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow) 
-
--![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL) [SQL](https://www.mysql.com/)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=machine-learning) [Machine Learning](https://scikit-learn.org/)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=deep-learning) [Deep Learning](https://keras.io/)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow) 
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)
 
 #### Web Development:
--![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) 
-
--![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6) 
-
--![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
-
--![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-
--![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
-
--![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
-
--![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) 
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
 #### Version Control & Deployment:
 
--![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
-
--![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
 
 ---
 
